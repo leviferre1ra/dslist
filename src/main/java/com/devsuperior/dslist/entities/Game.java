@@ -27,7 +27,6 @@ public class Game {
     private String longDescription;
 
     public Game(){
-
     }
 
     public Game(Long id, String title, Integer year, String genre, String platforms, Double score, String imgUrl, String shortDescription, String longDescription) {
