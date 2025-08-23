@@ -28,11 +28,19 @@ O **DSList** é um projeto de estudo back-end desenvolvido em **Java** com o fra
 - **Camada de controladores (REST)** → Recebe requisições HTTP e retorna JSON.  
 - **Camada de serviço** → Contém a lógica de negócios.  
 - **Camada de acesso a dados (repositories)** → Comunicação com o banco via JPA/Hibernate.
+
 ![Imagem do WhatsApp de 2025-08-22 à(s) 23 29 12_85883e94](https://github.com/user-attachments/assets/f71a5d8a-bebd-4004-ae93-b884837e52a8)
+
+## Consultas no Postman
+
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/c6af2975-f4ee-4f5d-81bf-89e5f4e0c87d" />
 
 
 ## Banco de dados
 O projeto foi testado com **H2 Database** e integrado ao **PostgreSQL** para ambientes reais.
+
+<img width="1867" height="905" alt="image" src="https://github.com/user-attachments/assets/7aabe823-1868-48aa-8db2-5b381f3093ea" />
+
 
 
 ## ⚙️ Como executar o projeto
